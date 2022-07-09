@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gw2-color-palette/static/css/main.ba7489a4.css",
+    "main.js": "/gw2-color-palette/static/js/main.1e678ce5.js",
+    "index.html": "/gw2-color-palette/index.html",
+    "static/media/logo.svg": "/gw2-color-palette/static/media/logo.d86a0101d65908cb2563.svg",
+    "main.ba7489a4.css.map": "/gw2-color-palette/static/css/main.ba7489a4.css.map",
+    "main.1e678ce5.js.map": "/gw2-color-palette/static/js/main.1e678ce5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba7489a4.css",
+    "static/js/main.1e678ce5.js"
+  ]
+}
